@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Midterm Q3 App</string>
+    <string name="hint_number1">Enter first number</string>
+    <string name="hint_number2">Enter second number</string>
+    <string name="button_add">Add</string>
+    <string name="button_subtract">Subtract</string>
+    <string name="button_multiply">Multiply</string>
+    <string name="button_divide">Divide</string>
+    <string name="button_submit">Submit</string>
+    <string name="result">Result</string>
+    <string name="enter_both_numbers">Please enter both numbers</string>
+    <string name="invalid_number">Invalid number</string>
+    <string name="cannot_divide_by_zero">Cannot divide by zero</string>
+    <string name="select_option">Please select an option</string>
+    <string name="submitted_option">Submitted: %1$s</string>
+    <string name="selected_option">Selected: %1$s</string>
+    <string name="nothing_selected">Nothing selected</string>
+    <string-array name="options_array">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+    </string-array>
+</resources>
